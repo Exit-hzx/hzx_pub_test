@@ -1,6 +1,6 @@
 {
   "name": "hzx_pub_test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "test publish",
   "main": "index.js",
   "scripts": {
